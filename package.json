@@ -1,0 +1,37 @@
+{
+  "name": "the-art-collector",
+  "version": "1.0.0",
+  "description": "React Art Collector",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sflagl/react-art-collector.git"
+  },
+  "author": "Samantha F.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sflagl/react-art-collector/issues"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "^5.0.1"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
